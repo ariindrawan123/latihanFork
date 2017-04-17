@@ -1,1 +1,2 @@
 # latihanFor
+data diri saya
